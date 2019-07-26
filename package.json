@@ -1,0 +1,28 @@
+{
+  "name": "react-native-common-crypto",
+  "version": "1.0.0",
+  "description": "Common crypto methods for your react native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lipo11/react-native-common-crypto.git"
+  },
+  "keywords": [
+    "crypto",
+    "aes",
+    "secure",
+    "enclave"
+  ],
+  "dependencies": {
+    "react-native-fingerprint-identify": "1.0.5"
+  },
+  "author": "Alex Polomcak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lipo11/react-native-common-crypto/issues"
+  },
+  "homepage": "https://github.com/Lipo11/react-native-common-crypto#readme"
+}
